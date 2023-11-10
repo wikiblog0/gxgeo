@@ -4,6 +4,7 @@ La pequeña novedad que trae este mod de gxgeo es que es compatible con las tarj
 momento de ejecutarse o encontrar las roms.
 
 El codigo fuente que se subira es de la ultima version oficial que salio, la version r23, por la que esta no tendra la pequeña mejora de la compatibilidad de las tarjetas SDHC.
+Aqui les dejo una lista de compatibilidad del emulador: https://www.elotrolado.net/wiki/Compatibilidad_GxGeo
 
 A continuacion se detallara los controles del emulador:
 
